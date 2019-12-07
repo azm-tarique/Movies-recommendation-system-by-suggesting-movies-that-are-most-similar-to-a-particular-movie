@@ -4,8 +4,6 @@ we will focus on providing a basic recommendation system by suggesting items tha
 
 My Contribution:
 
-1.  Import Libraries: numpy, pandas
-2.  Create a ratings dataframe with average rating and number of ratings
-3.  Create histograms
-4.  Recommending Similar Movies
-5.  Create matrix of Recommending Similar Movies
+1.  Used Memory-Based Collaborative Filtering approach.
+2.  Evaluate the model using Root Mean Squared Error (RMSE).
+3.  Used Model-based Collaborative Filtering based on matrix factorization.
